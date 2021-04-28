@@ -5,8 +5,8 @@ var balloonPosition;
 var database;
 
 function preload(){
-  backgroundImage = loadImage("images/bg.png");
-  balloonImage = loadAnimation("images/HotAirBallon-02.png","images/HotAirBallon-03.png","images/HotAirBallon-04.png");
+  backgroundImage = loadImage("background.png");
+  balloonImage = loadAnimation("balloon01.png");
   
 }
 
